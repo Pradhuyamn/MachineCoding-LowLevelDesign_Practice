@@ -1,6 +1,6 @@
 # Machine Coding - Low Level Design (LLD) Practice Solutions in C++ :- 
-Tic-Toc-Toe Game C++ :- https://workat.tech/machine-coding/practice/design-tic-tac-toe-smyfi9x064ry
-Snake and Ladder Game C++ :- https://workat.tech/machine-coding/editorial/how-to-design-snake-and-ladder-machine-coding-ehskk9c40x2w
+1. Tic-Toc-Toe Game C++ :- https://workat.tech/machine-coding/practice/design-tic-tac-toe-smyfi9x064ry
+2. Snake and Ladder Game C++ :- https://workat.tech/machine-coding/editorial/how-to-design-snake-and-ladder-machine-coding-ehskk9c40x2w
 
 Low-Level Design / Machine Coding Round Preparation Resorces:- 
 
